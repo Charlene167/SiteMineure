@@ -1,0 +1,316 @@
+
+/* latin */
+@font-face {
+    font-family: 'Unkempt';
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://fonts.gstatic.com/s/unkempt/v12/2EbiL-Z2DFZue0DScTow5zK5qg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  .fithw {
+    /*height: 100vh;
+    width: 100vw;
+    margin: 0;*/
+    object-fit: fill;
+  }
+
+  .body {
+    
+     margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    position: absolute;
+     background-color: lightyellow;
+     
+
+
+  }
+
+.title-text {
+  
+  background-color: lightyellow;
+  display: flex;
+  /*height: 1440px;align-items: center; 
+  width: 1024px;overflow: hidden;*/
+  
+  transform: rotate(-90.00deg);
+ 
+  margin-left: 100PX;
+  margin-right: auto;
+  margin-top:0 ;
+  width: fit-content;
+}
+
+.overlap-group1 {
+  display: flex;
+  justify-content: center;
+  height: 1823px;
+  width: 1166px;
+  margin-bottom: -599.52px;
+  margin-left: -201px;
+  position: relative;
+  
+
+  
+}
+
+.overlap-group {
+  height: 1823px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1166px;
+}
+
+.soleil {
+  background-color: 
+#fac71f70;
+  border-radius: 600px/500px;
+  height: 1000px;
+  left: -100px;
+  position: absolute;
+  top: 323px;
+  transform: rotate(90.00deg);
+  width: 1200px;
+}
+
+.floor {
+  height: 622px;
+  left: -748px;
+  position: absolute;
+  top: 601px;
+  transform: rotate(90.00deg);
+  width: 2023px;
+}
+
+.title {
+ color: black;
+ font-family: 'Unkempt';
+  font-size: 50px;
+  font-weight: 2000;
+  left: 891px;
+  letter-spacing: 5.58px;
+  line-height: 60.0px;
+  position: absolute;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  top: 772px;
+  transform: rotate(90.00deg);
+  white-space: nowrap;
+  width: 487px;
+}
+
+.text-1 {
+  color: black;
+  display: flex;
+  justify-content: center;
+  font-family: 'Unkempt';
+  font-size: 40px;
+  font-weight: 1300;
+  left: 597px;
+  position: absolute;
+  text-align: center;
+  top: 776px;
+  transform: rotate(90.00deg);
+  width: 933px;
+}
+
+.frame-4 {
+  height: 338px;
+  width: 943px;
+  left: 280px;
+  position: absolute;
+  top: 638px;
+  transform: rotate(90.00deg);
+  
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  height: 338px;
+  width: 943px;
+  left: 280px;
+  right: 500px;
+  top: 638px;
+  bottom: 638px;
+  position: absolute;
+  transform: rotate(90.00deg);
+  
+}
+
+.divgenre {
+  color: black;
+ font-family: 'Unkempt';
+align-items: center;
+ font-size: 30px;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.divprenom {
+  color: black;
+ font-family: 'Unkempt';
+ align-items: center;
+ font-size: 30px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.divtype {
+  color: black;
+  align-items: center;
+ font-size: 30px;
+ font-family: 'Unkempt';
+  display: flex;
+  justify-content: center;
+  
+}
+
+.divdemarrer {
+  color: black;
+  align-items: center;
+  font-size: 30px;
+ font-family: 'Unkempt';
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.button {
+  color: black;
+ font-family: 'Unkempt'!important;
+ align-items: center;
+ font-size: 30px;
+ background-color: lightyellow;
+  
+}
+
+.desktop-1{
+ align-items: flex-start;
+ background-color: var(--white);
+ display: flex;
+ height: 1024px;
+ overflow: hidden;
+ padding: 0 208.0px;
+ width: 1440px;
+
+}
+
+.pap-4 {
+  height: 71px;
+  left: 558px;
+  position: absolute;
+  top: 1017px;
+  transform: rotate(90.00deg);
+  width: 63px;
+}
+
+.lapin {
+  height: 139px;
+  left: 428px;
+  position: absolute;
+  top: 1094px;
+  transform: rotate(90.00deg);
+  width: 229px;
+}
+
+.girafe {
+  height: 502px;
+  left: 452px;
+  position: absolute;
+  top: -26px;
+  transform: rotate(90.00deg);
+  width: 400px;
+}
+
+.elephant {
+  height: 265px;
+  left: 398px;
+  position: absolute;
+  top: 327px;
+  transform: rotate(90.00deg);
+  width: 327px;
+}
+
+.renard {
+  height: 162px;
+  left: 181px;
+  position: absolute;
+  top: 1190px;
+  transform: rotate(90.00deg);
+  width: 297px;
+}
+
+.kids-1 {
+  height: 297px;
+  left: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: 674px;
+  transform: rotate(90.00deg);
+  width: 500px;
+}
+
+.oiseau-1 {
+  height: 47px;
+  left: 280px;
+  position: absolute;
+  top: 144px;
+  transform: rotate(90.00deg);
+  width: 49px;
+}
+
+.oiseau-3 {
+  height: 54px;
+  left: 462px;
+  position: absolute;
+  top: 1418px;
+  transform: rotate(90.00deg);
+  width: 52px;
+}
+
+.oiseau-2 {
+  height: 51px;
+  left: 277px;
+  position: absolute;
+  top: 199px;
+  transform: rotate(90.00deg);
+  width: 51px;
+}
+
+.pap-1 {
+  height: 72px;
+  left: 1092px;
+  position: absolute;
+  top: 1349px;
+  transform: rotate(90.00deg);
+  width: 69px;
+}
+
+.pap-2 {
+  height: 81px;
+  left: 685px;
+  position: absolute;
+  top: 1372px;
+  transform: rotate(90.00deg);
+  width: 53px;
+}
+
+.pap-3 {
+  height: 83px;
+  left: 964px;
+  position: absolute;
+  top: 153px;
+  transform: rotate(90.00deg);
+  width: 60px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Unkempt:700");

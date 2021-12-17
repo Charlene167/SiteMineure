@@ -1,0 +1,44 @@
+
+
+body {
+    
+    
+  
+    margin:0; 
+    padding:0; 
+    overflow:hidden;
+    background-image: url(PageH.svg);
+    
+
+
+ }
+
+ /*.page{
+    
+    
+    position:fixed;
+     top:0; 
+     left:0; 
+     height:100%; 
+     width:100%
+ }*/
+
+ .scaling-svg-container {
+    position: relative; 
+    height: 0; 
+    width: 100%; 
+    padding: 0;
+    padding-bottom: 100%; 
+    /* override this inline for aspect ratio other than square */
+   }
+   
+   .scaling-svg {
+    position: absolute; 
+    height: 100%; 
+    width: 100%; 
+    left: 0; 
+    top: 0;
+   }
+
+ 
+
